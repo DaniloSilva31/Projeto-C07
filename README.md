@@ -57,7 +57,7 @@ As tabelas possuem **chaves primárias, estrangeiras e restrições de integrida
 
 ---
 
-## 8. Dupla
+## 7. Dupla
 - **Antonio Feliciano da Silveira Neto** (@AntonioFSN2)  
 - **Danilo Henrique Maia Silva** (@DaniloSilva31)  
 
