@@ -44,20 +44,7 @@ O modelo foi desenvolvido no **MySQL Workbench** e segue as instruções da disc
 
 ---
 
-## 5. Modelo no MySQL Workbench
-O diagrama conceitual e lógico foi desenvolvido no **MySQL Workbench** e está disponível no repositório no formato `.mwb`.  
-As tabelas possuem **chaves primárias, estrangeiras e restrições de integridade** para garantir consistência nos relacionamentos.  
-
----
-
-## 6. Tecnologias Utilizadas
-- **MySQL Workbench**: para modelagem e geração do diagrama EER.  
-- **MySQL**: para execução do modelo físico.  
-- **GitHub**: para versionamento e documentação do projeto.  
-
----
-
-## 7. Dupla
+## 5. Dupla
 - **Antonio Feliciano da Silveira Neto** (@AntonioFSN2)  
 - **Danilo Henrique Maia Silva** (@DaniloSilva31)  
 
